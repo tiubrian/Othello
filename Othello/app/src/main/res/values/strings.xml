@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Othello</string>
+    <string name="action_settings">Settings</string>
+    <string name="b1" />
+    <string name="hi">hi</string>
+    <string name="btn" />
+</resources>
